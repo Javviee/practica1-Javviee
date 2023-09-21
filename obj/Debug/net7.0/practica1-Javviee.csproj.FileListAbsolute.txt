@@ -1,0 +1,14 @@
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\practica1-Javviee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\practica1-Javviee.AssemblyInfoInputs.cache
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\practica1-Javviee.AssemblyInfo.cs
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\practica1-Javviee.csproj.CoreCompileInputs.cache
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\bin\Debug\net7.0\practica1-Javviee.exe
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\bin\Debug\net7.0\practica1-Javviee.deps.json
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\bin\Debug\net7.0\practica1-Javviee.runtimeconfig.json
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\bin\Debug\net7.0\practica1-Javviee.dll
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\bin\Debug\net7.0\practica1-Javviee.pdb
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\practica1-Javviee.dll
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\refint\practica1-Javviee.dll
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\practica1-Javviee.pdb
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\practica1-Javviee.genruntimeconfig.cache
+C:\Users\JAVIER\Desktop\Practicas\practica1-Javviee\obj\Debug\net7.0\ref\practica1-Javviee.dll
